@@ -1,0 +1,40 @@
+body{
+    background-color: #000;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(115, 48, 230);
+    padding: 0px, 8px,0px,8px;
+    height: 150px;
+    color: antiquewhite;
+    font-family: dancing script;
+    font-size: 80px;
+    border-radius: 80px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 30px;
+    width: 300px;
+    background-color: rgb(231, 27, 105);
+    border: 0px;
+    border-radius: 80px;
+    color: aliceblue;
+    font-size: 25px;
+}
+button:hover{
+    background-color:  rgb(243, 8, 98);
+    box-shadow: 8px 8px 30px rgb(247, 160, 210);
+}
+.im{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
